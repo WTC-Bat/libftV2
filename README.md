@@ -14,6 +14,9 @@ ft_lstnew
 ft_strchr
 ft_strdup	("char" to "char const")
 ft_strtrim	(error checking)
+ft_strnew	(docs & NULL)
+ft_strequ	(docs & 's1' and 's2' check)
+ft_strnequ	(docs)
 
 ft_memalloc		?
 ft_memdel		?
