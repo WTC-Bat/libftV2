@@ -15,7 +15,6 @@ ft_strchr
 ft_strdup	("char" to "char const")
 ft_strtrim	(error checking)
 
-
-May need fixing:
-
-ft_memalloc
+ft_memalloc		?
+ft_memdel		?
+ft_strsub		?
