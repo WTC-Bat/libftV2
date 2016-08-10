@@ -13,6 +13,7 @@ libft.a
 
 # Test Files
 main.c
+mt.c
 tst.c
 tst*.c
 *tst.c
