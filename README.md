@@ -11,6 +11,7 @@ ft_lstdel
 ft_lstdelone
 ft_itoa
 ft_lstnew
+ft_strchr
 
 
 May need fixing:
