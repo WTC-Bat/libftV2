@@ -15,7 +15,7 @@
 void	*ft_memalloc(size_t size)
 {
 	unsigned char	*mem;
-	unsigned int	cnt;
+	size_t			cnt;
 
 	mem = (unsigned char *)malloc(sizeof(unsigned char) * size);
 	cnt = 0;
